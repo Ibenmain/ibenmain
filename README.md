@@ -40,8 +40,8 @@
 		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:ibenmain@gmail.com" />
 	</a>
 	<span> * </span>
-	<a href="https://www.linkedin.com/in/nouhaila-moussammi/">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nouhaila-moussammi/" />
+	<a href="https://www.linkedin.com/in/benmaina-issam-08a214185/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benmaina-issam-08a214185/"/>
 	</a>
 	<span> * </span>
 <!--   	<a href="https://https://discord.com/users/nmoussam#7557">
