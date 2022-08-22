@@ -2,7 +2,7 @@
 ## I'm a student, and Developer !!
 
 <!-- - 🌱 I’m currently learning everything 
-- 🥅 2022 Goals: Learn more about web3 
+- 🥅 2022 Goals: Learn more about web3
 <br> -->
 
 ![nmoussam's 42 stats](https://badge.mediaplus.ma/greenbinary/ibenmain)
@@ -19,8 +19,8 @@
 
 ### Connect with me:
 
-├─◈ <a href="https://www.linkedin.com/issambenmaina">LinkedIn</a><br>
-├─◈ <a href="https://www.instagram.com/nouhaila.moussammi">Instagram</a><br>
+├─◈ <a href="https://www.linkedin.com/in/benmaina-issam-08a214185/">LinkedIn</a><br>
+├─◈ <a href="https://www.instagram">Instagram</a><br>
 ├─◈ Discord: nmoussam#7557
 
 ┌──┤ PROJECTS ├───────▰▰▰<br>
