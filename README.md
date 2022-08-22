@@ -5,7 +5,7 @@
 - 🥅 2022 Goals: Learn more about web3
 <br> -->
 
-![nmoussam's 42 stats](https://badge.mediaplus.ma/greenbinary/ibenmain)
+![ibenmain's 42 stats](https://badge.mediaplus.ma/greenbinary/ibenmain)
 
 <br>
 ┌──┤ WHOAMI ├─────────▰▰▰<br>
@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-├─◈ <a href="https://www.linkedin.com/benmaina-issam-08a214185/">LinkedIn</a><br>
+├─◈ <a href="https://www.linkedin.com/in/benmaina-issam-08a214185/">LinkedIn</a><br>
 ├─◈ <a href="https://www.instagram">Instagram</a><br>
 ├─◈ Discord: nmoussam#7557
 
