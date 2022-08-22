@@ -5,16 +5,13 @@
 - 🥅 2022 Goals: Learn more about web3 
 <br> -->
 
-![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/nmoussam)
+![nmoussam's 42 stats](https://badge.mediaplus.ma/greenbinary/ibenmain)
 
 <br>
 ┌──┤ WHOAMI ├─────────▰▰▰<br>
 │ <br>
 ├─▣ Computer Science student at  <a href="https://www.1337.ma">1337</a><br>
-├─▣ PhD student at  <a href="http://www.fsr.ac.ma/">FSR</a><br>
-├─▣ Master's degree <a href="http://ensias.um5.ac.ma/">ENSIAS</a><br>
-├─▣ Interested in Cloud Computing, Devops, Web Development. <br>
-├─▣ From Casablanca Morocco <br>
+├─▣ Interested in Computing, Devops, Web Development. <br>
 │<br>
 └───────────────────────────────▰▰▰
 
