@@ -1,4 +1,4 @@
-# Hi there, I'm <i> ISSAM BENMAIN <i> 👋 
+# Hi there, I'm <b> Issam Benmain </b>👋 
 ## I'm a PhD student, and Developer !!
 
 <!-- - 🌱 I’m currently learning everything 
