@@ -61,7 +61,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+#<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
 
 
@@ -69,7 +69,7 @@
 <br/>
 
 ---------------
-| [![Nmoussammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibenmain&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ibenmain?tab=repositories) | [![Nmoussammi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibenmain&layout=compact&hide_border=true&theme=jolly)](https://github.com/ibenmain?tab=repositories) |
+| [![ibenmain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibenmain&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ibenmain?tab=repositories) | [![Nmoussammi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibenmain&layout=compact&hide_border=true&theme=jolly)](https://github.com/ibenmain?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
