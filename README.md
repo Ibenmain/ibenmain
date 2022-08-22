@@ -32,7 +32,6 @@
 ├─◈ <a href="https://github.com/ibenmain/minitalk">minitalk</a><br>
 ├─◈ <a href="https://github.com/ibenmain/so_long">So_long</a><br>
 <!-- ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/so_long">so_long</a> -->
-│<br>
 └───────────────────────────────▰▰▰
 <br>
 
@@ -70,11 +69,11 @@
 <br/>
 
 ---------------
-| [![Nmoussammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nmoussammi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Nmoussammi?tab=repositories) | [![Nmoussammi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nmoussammi&layout=compact&hide_border=true&theme=jolly)](https://github.com/Nmoussammi?tab=repositories) |
+| [![Nmoussammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibenmain&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ibenmain?tab=repositories) | [![Nmoussammi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibenmain&layout=compact&hide_border=true&theme=jolly)](https://github.com/ibenmain?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
-	<img alt="ibenmain's visitors" src="https://komarev.com/ghpvc/?username=Nmoussammi&color=8c36db&style=flat&label=visitors" />
+	<img alt="ibenmain's visitors" src="https://komarev.com/ghpvc/?username=ibenmain&color=8c36db&style=flat&label=visitors" />
 	<img alt="ibenmain's followers" src="https://img.shields.io/github/followers/ibenmain?color=blueviolet" />
 	<img alt="ibenmain's stars" src="https://img.shields.io/github/stars/ibenmain?color=blueviolet" />
 </p>
