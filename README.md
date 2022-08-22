@@ -1,5 +1,5 @@
 # Hi there, I'm <b> Issam Benmain </b>👋 
-## I'm a PhD student, and Developer !!
+## I'm a student, and Developer !!
 
 <!-- - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about web3 
@@ -25,23 +25,23 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰<br>
 │<br>
-├─◈ <a href="https://github.com/Nmoussammi/Libft">libft</a><br>
-├─◈ <a href="https://github.com/Nmoussammi/Get_Next_Line">get_next_line</a><br>
-├─◈ <a href="https://github.com/Nmoussammi/ft_printf">ft_printf</a><br>
+├─◈ <a href="https://github.com/ibenmain/libft">libft</a><br>
+├─◈ <a href="https://github.com/ibenmain/get_next_line">get_next_line</a><br>
+├─◈ <a href="https://github.com/ibenmain/ft_printf">ft_printf</a><br>
 <!-- ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/Born2beRoot">Born2beRoot</a> -->
-├─◈ <a href="https://github.com/Nmoussammi/minitalk">minitalk</a><br>
-├─◈ <a href="https://github.com/Nmoussammi/so_long">So_long</a><br>
+├─◈ <a href="https://github.com/ibenmain/minitalk">minitalk</a><br>
+├─◈ <a href="https://github.com/ibenmain/so_long">So_long</a><br>
 <!-- ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/so_long">so_long</a> -->
-├─◈ <a href="https://github.com/Nmoussammi/Portfolio">Portfolio</a><br>
-├─◈ <a href="https://github.com/Nmoussammi/Simple-Website-Design">Simple Website Design</a><br>
-├─◈ <a href="https://github.com/Nmoussammi/nft-card-component">Nft Card Component</a> <br>
+├─◈ <a href="https://github.com/ibenmain/Portfolio">Portfolio</a><br>
+├─◈ <a href="https://github.com/ibenmain/Simple-Website-Design">Simple Website Design</a><br>
+├─◈ <a href="https://github.com/ibenmain/nft-card-component">Nft Card Component</a> <br>
 │<br>
 └───────────────────────────────▰▰▰
 <br>
 
   <p align="center">
-	<a href="mailto:nmoussammi@gmail.com">
-		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:nmoussammi@gmail.com" />
+	<a href="mailto:ibenmain@gmail.com">
+		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:ibenmain@gmail.com" />
 	</a>
 	<span> * </span>
 	<a href="https://www.linkedin.com/in/nouhaila-moussammi/">
