@@ -20,8 +20,8 @@
 ### Connect with me:
 
 ├─◈ <a href="https://www.linkedin.com/in/benmaina-issam-08a214185/">LinkedIn</a><br>
-├─◈ <a href="https://www.instagram">Instagram</a><br>
-├─◈ Discord: nmoussam#7557
+├─◈ <a href="https://www.instagram.com/issambenmaina/">Instagram</a><br>
+├─◈ Discord: Benmaina#7610
 
 ┌──┤ PROJECTS ├───────▰▰▰<br>
 │<br>
