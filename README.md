@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-├─◈ <a href="https://www.linkedin.com/in/benmaina-issam-08a214185/">LinkedIn</a><br>
+├─◈ <a href="https://www.linkedin.com/benmaina-issam-08a214185/">LinkedIn</a><br>
 ├─◈ <a href="https://www.instagram">Instagram</a><br>
 ├─◈ Discord: nmoussam#7557
 
