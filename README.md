@@ -32,9 +32,6 @@
 ├─◈ <a href="https://github.com/ibenmain/minitalk">minitalk</a><br>
 ├─◈ <a href="https://github.com/ibenmain/so_long">So_long</a><br>
 <!-- ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/so_long">so_long</a> -->
-├─◈ <a href="https://github.com/ibenmain/Portfolio">Portfolio</a><br>
-├─◈ <a href="https://github.com/ibenmain/Simple-Website-Design">Simple Website Design</a><br>
-├─◈ <a href="https://github.com/ibenmain/nft-card-component">Nft Card Component</a> <br>
 │<br>
 └───────────────────────────────▰▰▰
 <br>
@@ -77,9 +74,9 @@
 |:-:|:-:|
 
 <p align="center">
-	<img alt="Nmoussammi's visitors" src="https://komarev.com/ghpvc/?username=Nmoussammi&color=8c36db&style=flat&label=visitors" />
-	<img alt="Nmoussammi's followers" src="https://img.shields.io/github/followers/Nmoussammi?color=blueviolet" />
-	<img alt="Nmoussammi's stars" src="https://img.shields.io/github/stars/Nmoussammi?color=blueviolet" />
+	<img alt="ibenmain's visitors" src="https://komarev.com/ghpvc/?username=Nmoussammi&color=8c36db&style=flat&label=visitors" />
+	<img alt="ibenmain's followers" src="https://img.shields.io/github/followers/ibenmain?color=blueviolet" />
+	<img alt="ibenmain's stars" src="https://img.shields.io/github/stars/ibenmain?color=blueviolet" />
 </p>
 
 ---------------
