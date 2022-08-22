@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-├─◈ <a href="https://www.linkedin.com/in/nouhaila-moussammi">LinkedIn</a><br>
+├─◈ <a href="https://www.linkedin.com/feed/?trk=homepage-basic_signin-form_submit">LinkedIn</a><br>
 ├─◈ <a href="https://www.instagram.com/nouhaila.moussammi">Instagram</a><br>
 ├─◈ Discord: nmoussam#7557
 
