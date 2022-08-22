@@ -69,7 +69,7 @@
 <br/>
 
 ---------------
-| [![ibenmain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibenmain&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ibenmain?tab=repositories) | [![Nmoussammi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibenmain&layout=compact&hide_border=true&theme=jolly)](https://github.com/ibenmain?tab=repositories) |
+| [![ibenmain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibenmain&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ibenmain?tab=repositories) | [![ibenmain's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibenmain&layout=compact&hide_border=true&theme=jolly)](https://github.com/ibenmain?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
