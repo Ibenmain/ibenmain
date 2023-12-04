@@ -4,7 +4,7 @@
 <!-- - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about web3
 <br> -->
-[![<ibenmain>'s 42 stats](https://badge.mediaplus.ma/<theme>/<ibenmain>)](https://github.com/oakoudad/badge42)
+[![<ibenmain>'s 42 stats]
 <br>
 ┌──┤ WHOAMI ├─────────▰▰▰<br>
 │ <br>
