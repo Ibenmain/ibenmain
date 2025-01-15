@@ -1,5 +1,6 @@
 # Hi there, I'm <b> Issam Benmain </b>👋 
-## I'm a student, and Developer !!
+# Full-Stack Developer | Specialized in React.js, Next.js | Crafting Scalable Web Applications with a User-Centric Focus
+## I'm a student at 1337 school
 
 <!-- - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about web3
