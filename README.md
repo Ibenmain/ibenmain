@@ -1,4 +1,4 @@
-# Hi there, I'm <b> Issam Benmain </b>👋 
+# Hi there, I'm <b> Issam Benmaina </b>👋 
 # Full-Stack Developer | Specialized in React.js, Next.js | Crafting Scalable Web Applications with a User-Centric Focus
 ## I'm a student at 1337 school
 
